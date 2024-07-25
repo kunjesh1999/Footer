@@ -1,0 +1,229 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.footer {
+    display: block;
+}
+
+.footer .footer_top {
+    display: block;
+    background-color: black;
+}
+
+.footer .footer_top .container {
+    box-sizing: border-box;
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+    display: block;
+
+}
+
+.footer .footer_top .container .footer-inner {
+
+    padding-top: 20px;
+    display: flex;
+}
+
+.footer .footer_top .container .footer-inner .footer-column {
+    padding-left: 10px;
+    margin-bottom: 10px;
+    padding-right: 10px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.footer .footer_top .container .footer-inner .footer-column .botanica {
+    margin-bottom: 35px;
+}
+
+.footer .footer_top .container .footer-inner .footer-column .botanica img {
+    max-width: 155px;
+}
+
+.footer .footer_top .container .footer-inner .footer-column .location {
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+
+
+}
+
+.footer .footer_top .container .footer-inner .footer-column .location .icon {
+    display: block;
+    color: white;
+    font-size: 18px;
+}
+
+.footer .footer_top .container .footer-inner .footer-column .location .icon span {
+    font-family: "Nunito";
+
+}
+
+.footer .footer_top .container .footer-inner .footer-column .location .icon strong::before {
+    content: "\f3c5";
+    font-family: "Font Awesome 6 Free";
+    color: white;
+    padding-right: 12px;
+}
+
+.footer {
+    display: block;
+}
+
+.footer .footer_top {
+    display: block;
+    background-color: black;
+}
+
+.footer .footer_top .container {
+    box-sizing: border-box;
+    max-width: 1200px;
+    width: 100%;
+
+    display: block;
+
+}
+
+.footer .footer_top .container .footer-inner {
+
+    padding-top: 20px;
+    display: flex;
+}
+
+.footer .footer_top .container .footer-inner .footer-column {
+    padding-left: 10px;
+
+}
+
+.footer .footer_top .container .footer-inner .footer-column .location2 {
+    display: block;
+    padding-top: 10px;
+    width: 100%;
+    box-sizing: border-box;
+    padding-bottom: 10px;
+
+}
+
+.footer .footer_top .container .footer-inner .footer-column .location2 .icon2 {
+    display: block;
+    color: white;
+    font-size: 18px;
+}
+
+
+.footer .footer_top .container .footer-inner .footer-column .location2 .icon2 strong::before {
+    content: "\f0e0";
+    font-family: "Font Awesome 6 Free";
+    color: white;
+    padding-right: 7px;
+}
+
+.footer .footer_top .container .footer-inner .footer-column .icon-bottom {
+
+    margin-top: 25px;
+}
+
+.main_icon {
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.main_icon ul {
+    /* width: 100%;
+    box-sizing: border-box; */
+    display: flex;
+}
+
+.main_icon ul li {
+    margin: 5px;
+    border-radius: 50%;
+    display: flex;
+
+    border: 1px solid blueviolet;
+
+}
+
+.main_icon ul li a {
+    color: white;
+    /* padding: 5px; */
+    text-decoration: none;
+    /* border-radius: 50%;
+    background-color: blue; */
+    margin: 20px;
+    display: flex;
+}
+
+.main_icon ul li a i:hover {
+    background-color: #01693a;
+}
+
+/* company block footer */
+
+.footer {
+    display: block;
+}
+
+.footer .footer_top {
+    display: block;
+    background-color: black;
+}
+
+.footer .footer_top .container {
+    box-sizing: border-box;
+    max-width: 1200px;
+    width: 100%;
+
+    display: block;
+
+}
+
+.footer .footer_top .container .footer-inner {
+
+    padding-top: 20px;
+    display: flex;
+}
+
+.footer .footer_top .container .footer-inner .footer-column {
+    padding-left: 15px;
+    padding-right: 15px;
+
+    margin-bottom: 15px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.footer .footer_top .container .footer-inner .footer-column .footers {
+    height: 100%;
+    color: white;
+    font-family: "Nunito";
+}
+
+.footer .footer_top .container .footer-inner .footer-column .footers .text {
+    margin-bottom: 20px;
+    position: relative;
+    font-weight: 700;
+    font-size: 16px;
+}
+
+.footer .footer_top .container .footer-inner .footer-column .footers .company_name {
+    display: block;
+}
+
+.footer .footer_top .container .footer-inner .footer-column .footers .company_name ul {
+    list-style: none;
+}
+
+.footer .footer_top .container .footer-inner .footer-column .footers .company_name ul li {
+    padding-bottom: 13px;
+
+}
+
+.footer .footer_top .container .footer-inner .footer-column .footers .company_name ul li A {
+    text-decoration: none;
+    color: white;
+    font-family: "Nunito";
+}
